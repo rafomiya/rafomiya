@@ -1,7 +1,6 @@
 ### Hello! I'm Rafael Omiya 👋
 
-- 🌱 Currently learning: Docker
-- 🤔 Looking for help with: Apache Airflow
+- 🌱 Currently learning about: Artificial Neural Networks
 - 💬 Ask me about: Python
 - 😄 Pronouns: he/him
 
@@ -13,6 +12,7 @@
 
 <div>
   <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="Jupyter Notebook" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img alt="Apache Spark" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachespark.svg" />  
   <img alt="Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
@@ -27,7 +27,6 @@
   <img alt="ReactJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Visual Studio Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
