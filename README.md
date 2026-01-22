@@ -1,7 +1,7 @@
 ### Hello! I'm Rafael Omiya 👋
 
-- 🌱 Currently learning about: Artificial Neural Networks
-- 💬 Ask me about: Python
+- 🌱 Currently learning about: Data Analysis, Knowledge Graphs and RAG 
+- 💬 Ask me about: Graph Theory and Parameterized Algorithms
 - 😄 Pronouns: he/him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafomiya&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafomiya&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
